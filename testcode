@@ -13,3 +13,4 @@ spec:
     - name: mypd
       persistentVolumeClaim:
         claimName: testclaim
+        claimname: testcodenew
